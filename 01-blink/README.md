@@ -6,12 +6,12 @@ Python Modules used:
 <br/>
 To change the on/off state of the led we are using the function toggle()<br/>
 For more precise control we would use the folowing:<br/>
-```
+```python
 myLed.on()
 myLed.off()
 ```<br/>
 __or__<br/>
-```
+```python
 myLed.value(1)
 myLed.value(0)
 ```<br/>
