@@ -2,8 +2,8 @@
 import machine
 import utime
 
-#Create a variable for our led. 
-#Specify the pin number and its' designation as an OUTPUT
+#Create a variable for our led.
+#Specify the pin number and designate it as an OUTPUT
 myLed = machine.Pin(15, machine.Pin.OUT)
 
 #Create a while loop

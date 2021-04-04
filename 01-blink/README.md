@@ -1,6 +1,6 @@
 ## Blink example
 __First example using micropython on the Raspberry Pico__ <br/>
-Python Modules used:
+Python modules used:
 - machine
 - utime 
 
@@ -17,7 +17,7 @@ myLed.on()
 myLed.off()
 ```
 
-__or__
+or
 
 ```python
 myLed.value(1)
