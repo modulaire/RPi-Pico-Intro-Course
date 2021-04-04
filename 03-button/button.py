@@ -15,6 +15,7 @@ button = Pin(11, Pin.IN)
 #button = Pin(11, Pin.IN, Pin.PULL_DOWN)
 
 while True:
+    #if button is pushed, then print message
     if button.value() == 1:
         print("Button pressed!")
-        sleep(.5) 
+        sleep(.5) #short delay avoids printing message thousands of times per second
