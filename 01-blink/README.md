@@ -1,8 +1,8 @@
 ## Blink example
 **First example using micropython on the Raspberry Pico** <br />
-Python Modules used:<br />
-- machine <br />
-- utime <br />
+Python Modules used:
+- machine
+- utime
 
 
 ### Hookup guide here:
