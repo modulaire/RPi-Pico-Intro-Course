@@ -1,6 +1,6 @@
 ## Blink example
 **First example using micropython on the Raspberry Pico** <br />
-<u> Python Modules used: </u> <br />
+Python Modules used:<br />
 - machine <br />
 - utime <br />
 
