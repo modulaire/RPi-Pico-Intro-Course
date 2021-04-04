@@ -4,9 +4,9 @@ A 10KΩ resistor will by applied directly on the breadboard to emphasize the nee
 
 Example of pull-up and pull-down resistor applied for use with a button:
 
-![pull-down](Pull-Down-Resistor.png)
-
-![pull-up](Pull-Up-Resistor.png)
+| Pull-Down Resistor                   | Pull-Up Resistor                |
+|--------------------------------------|---------------------------------|
+| ![pull-down](Pull-Down-Resistor.png) | ![pull-up](Pull-Up-Resistor.png)|
 
 ### Hookup guide:
 
