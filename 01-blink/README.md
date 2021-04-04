@@ -4,13 +4,22 @@ Python Modules used:
 - machine
 - utime 
 <br/>
-To change the on/off state of the led we are using the function toggle()<br/>
-For more precise control we would use the folowing:
+To change the on/off state of the led we are using the function *toggle()*:
+
+```python
+myLed.toggle()
+```
+
+For more precise control we would use the following:
 
 ```python
 myLed.on()
 myLed.off()
-##or
+```
+
+__or__
+
+```python
 myLed.value(1)
 myLed.value(0)
 ```
