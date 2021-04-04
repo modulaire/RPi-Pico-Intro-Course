@@ -1,6 +1,6 @@
 ## Blink example
 __First example using micropython on the Raspberry Pico__ <br/>
-Modules used:
+Modules used in _blink.py_ code:
 - machine
 - utime 
 
