@@ -9,7 +9,7 @@ _adc-fade-led.py_ is included as an example of applying the raw data to affect t
 
 <br />
 
-__ADC is short for *Analog to Digital Coversion* __
+__ADC is short for *Analog to Digital Coversion*__
 
 <br />
 
