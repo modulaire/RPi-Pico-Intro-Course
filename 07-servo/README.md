@@ -4,8 +4,6 @@
 
 **Note that we are using the VBUS pin of the Raspberry Pico to power the servo motor. This pin supplies 5 volts directly from the USB cable. 5 volts is required to power the servo, but should NEVER be introduced to other pins on the microcontroller!**
 
-<br />
-
 ### servoSweep
 
 It is suggested to begin with the code _servoSweep.py_ , to understand the basic behavior and to test if the motor is in fact acting as it should  <br />
