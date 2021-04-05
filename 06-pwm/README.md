@@ -5,6 +5,7 @@ PWM gives the impression of creating an analog signal since we work with output 
 Where one may believe that we are changing the luminosity of an LED, the reality is that we are blinking it so fast that it deceives our eyes. <br />
 <br />
 The diagram below roughly illustrates this behavior. Where the red line is what we think we see, the blue line illustrates what is actually happening:
+
 ![pwm-diagram](pwm-diagram.png)
 
 ### Hookup guide:
