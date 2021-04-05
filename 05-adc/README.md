@@ -15,7 +15,7 @@ A potentiometer is an analog device, more precisely it is a variable resistor. <
 As with other analog sensors, we may introduce a potentiometer to a microcontroller to obtain a range of values exceeding only 1 or 0.
 <br />
 
-Connections and schematic as follows:
+Connection schematic as follows:
 
 ![pot-connect](pot-connect.png)
 
