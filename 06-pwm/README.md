@@ -11,7 +11,7 @@ The diagram below roughly illustrates this behavior. Where the red line is what 
 
 <br />
 
-In the example code you will notice two functions specific to using PWM, _freq()_ and *duty_u16()*  <br />
+In the example code you will notice two functions specific to using PWM, **freq()** and **duty_u16()**  <br />
 
 <br />
 To control frequency of the pulse we use the following:
