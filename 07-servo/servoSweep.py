@@ -1,19 +1,24 @@
-import machine
 from machine import PWM, Pin
-import utime
+from utime import sleep
 
-servoPin = machine.Pin(13)
-myServo = machine.PWM(servoPin)
+# Create our servo object
+myServo = PWM(Pin(16))
+
+# set frequency to 50, required for servo motors
 myServo.freq(50);
 
-button = machine.Pin(16, machine.Pin.IN)
+# define minimum and maximum duty variables, compatible with our servo motor
+minDuty = 1900
+maxDuty = 7200
 
 while True:
-    if button.value() == 1:
-        for x in range(1000, 7000):
-            myServo.duty_u16(x)
-            utime.sleep(.001)
-            
-        for x in range(7000, 1000, -1):
-            myServo.duty_u16(x)
-            utime.sleep(.001)
+
+    print("move left")
+    for duty in range(minDuty, maxDuty):
+        myServo.duty_u16(duty)
+        sleep(.001)
+
+    print("move right")
+    for duty in range(maxDuty, minDuty, -1):
+        myServo.duty_u16(duty)
+        sleep(.001)
