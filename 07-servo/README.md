@@ -1,5 +1,5 @@
 ## servo example
-**A tradition servo motor is capable of 180° of rotation. Here we automate a sweep motion with the servo and, secondly, apply manual movement with a potentiometer** <br />
+**A tradition servo motor is capable of 180° of rotation. Here we automate a sweep motion with the servo and, secondly, apply manual movement with the use of potentiometer** <br />
 <br />
 
 **Note that we are using the VBUS pin of the Raspberry Pico to power the servo motor. This pin supplies 5 volts directly from the USB cable. 5 volts is required to power the servo, but should NEVER be introduced to other pins on the microcontroller!**
