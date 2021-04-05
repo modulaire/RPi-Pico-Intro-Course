@@ -2,7 +2,7 @@
 **A tradition servo motor is capable of 180° of rotation. Here we automate a sweep motion with the servo and, secondly, apply manual movement with a potentiometer** <br />
 <br />
 
-#servoSweep
+### servoSweep
 
 It is suggested to begin with the code _servoSweep.py_ , to understand the basic behavior and to test if the motor is in fact acting as it should  <br />
 
@@ -14,7 +14,7 @@ PWM is used to control the servo motor. We are required to define a frequency of
 pwm.freq(50) #pulse of 50 times per second for a servo motor
 ```
 
-#servoKnob
+### servoKnob
 
 In the code _servoKnob.py_ we add a potentiometer to manually control the movement of our servo motor. <br />
 Here we find use of 2 functions *_map()* and *constrain* . <br />
