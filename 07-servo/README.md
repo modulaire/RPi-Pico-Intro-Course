@@ -13,7 +13,7 @@ The __minDuty__ and __maxDuty__ values found in the code are estimated for servo
 PWM is used to control the servo motor. We are required to define a frequency of 50 hertz, as follows:
 
 ```python
-pwm.freq(50) #pulse of 50 times per second for a servo motor
+pwm.freq(50) # pulse 50 times per second for a servo motor
 ```
 
 ### servoKnob
