@@ -18,7 +18,8 @@ pwm.freq(1000) #pulse one-thousand times per second
 ```
 
 <br />
-The _duty_ function refers to the on time between pulses. On a Raspberry Pico, the range is 0 to 65025.<br />
+The _duty_ function refers to the on time between pulses. On a Raspberry Pico, the range is 0 to 65025.
+<br />
 Examples as follows:
 
 ```python
