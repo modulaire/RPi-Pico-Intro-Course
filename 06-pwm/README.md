@@ -9,13 +9,14 @@ The diagram below roughly illustrates this behavior. Where the red line is what 
 
 ![pwm-diagram](pwm-diagram.png)
 
-You will notice in the example code two functions specific to using PWM. <br />
+In the example code you will notice two functions specific to using PWM. <br />
 To control frequency of the pulse we use the following:
 
 ```python
 pwm.freq(1000) #pulse one-thousand times per second
 ```
 
+<br />
 The _duty_ function refers to the on time between pulses. On a Raspberry Pico, the range is 0 to 65025.<br />
 Examples as follows:
 
