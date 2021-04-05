@@ -9,6 +9,7 @@ The diagram below roughly illustrates this behavior. Where the red line is what 
 
 ![pwm-diagram](pwm-diagram.png)
 
+<br />
 In the example code you will notice two functions specific to using PWM. <br />
 To control frequency of the pulse we use the following:
 
