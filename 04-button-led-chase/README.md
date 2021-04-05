@@ -3,7 +3,7 @@
 When the button is pressed, a for loop is implemented to sequence 3 LEDs turning on and off. <br />
 <br />
 _for_ loops are traditionally used when you have a block of code which you want to repeat a fixed number of times.<br />
-Example:
+__Example:__
 
 ```python
 for x in range(5)
