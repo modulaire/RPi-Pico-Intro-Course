@@ -20,7 +20,7 @@ For download instructions, visit [The official website](https://thonny.org "Offi
 
 __Thonny Screenshot__
 
-![Thonny-preview](thonny.png)
+![Thonny-preview](images/thonny.png)
 <br />
 
 ### Install Firmware onto the Raspberry Pico
@@ -35,10 +35,10 @@ __Thonny Screenshot__
 
 __Illustration from the raspberry website:__
 
-![install-firmware](install-firmware.webp)
+![install-firmware](images/install-firmware.webp)
 
 <br />
 
 ### Raspberry Pico Pinout is as follows:
 
-![Pico-Pinout](pico_pinout.png)
+![Pico-Pinout](images/pico_pinout.png)
