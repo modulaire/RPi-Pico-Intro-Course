@@ -33,8 +33,12 @@ __Thonny Screenshot__
 
 4. Drag and drop the downloaded file onto the mounted Raspberry device.
 
-__Illustration from raspberry website:__
+__Illustration from the raspberry website:__
 
 ![install-firmware](install-firmware.webp)
 
+<br />
 
+Raspberry Pico Pinout is as follows:
+
+![Pico-Pinout](pico_pinout.png)
