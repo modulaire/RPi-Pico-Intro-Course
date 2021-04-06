@@ -1,7 +1,7 @@
 ## Getting started with Micropython on the Raspberry Pico
-__In this repository is included examples as follows__ <br/>
+__In this repository are included chronological examples as follows__ <br/>
 
-| GPIO                | Exercise                               |
+| IO Function         | Exercise                               |
 |---------------------|----------------------------------------|
 | OUTPUT              | Blink a LED                            |
 | INPUT               | add a push-button                      |
