@@ -25,7 +25,7 @@ __Thonny Screenshot__
 
 ### Install Firmware onto the Raspberry Pico
 
-1. Visit the official site to download the firmware file : [ **Here** ] (https://www.raspberrypi.org/documentation/rp2040/getting-started/#getting-started-with-micropython "Raspberry - getting started with micropython")
+1. Visit the official site to download the firmware file : [Here](https://www.raspberrypi.org/documentation/rp2040/getting-started/#getting-started-with-micropython "Raspberry - getting started with micropython")
 
 2. While pressing the _BOOTSEL_ button on the Raspberry Pico, connect it to your computer with a micro-USB cable.
 
