@@ -39,6 +39,6 @@ __Illustration from the raspberry website:__
 
 <br />
 
-Raspberry Pico Pinout is as follows:
+### Raspberry Pico Pinout is as follows:
 
 ![Pico-Pinout](pico_pinout.png)
