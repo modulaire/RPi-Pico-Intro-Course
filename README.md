@@ -9,12 +9,9 @@ __In this repository is included examples as follows__ <br/>
 - PWM : automated control of a Servo motor
 - PWM & ADC : control a Servo motor with analog input
 
-```
-
 ### To follow the examples it is recommended to install Thonny (Python IDE for beginners)
 
 For download instructions, visit [The official website](https://thonny.org "Official Thonny Website") <br />
-
 
 __Thonny Screenshot__
 ![Thonny-preview](thonny.png)
